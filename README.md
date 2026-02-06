@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hi, I'm Md. Saimoon Islam
+### Network & System Administrator 
 
-<!--
-**islamsaimoon/islamsaimoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my technical portfolio! I am currently a student at **IDB-BISEW**, specializing in enterprise network design and server administration. 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack & Skills
+* **Servers:** Windows Server 2022 (AD DS, DNS, GPO)
+* **Networking:** Cisco CCNA, MikroTik MTCNA
+* **Virtualization:** VMware & Hyper-V
+* **Documentation:** Technical Lab Reporting
+
+---
+
+## 📂 Upcoming Projects
+I am currently documenting and uploading my hands-on labs, including:
+* **[In Progress]** Windows Server 2022: AD DS & DNS Infrastructure
+* **[In Progress]** Cisco Site-to-Site GRE Tunnel Implementation
+
+---
+
+## 📬 Let's Connect
+* **LinkedIn:** https://www.linkedin.com/in/md-saimoon-islam-network-admin
+* **Location:** Mirpur, Dhaka, Bangladesh

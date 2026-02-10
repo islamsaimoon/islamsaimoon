@@ -30,7 +30,6 @@ Certified Professional: Certified in Cisco Networking Academy for Networking Dev
 [Technical Logs] Documenting packet analysis and troubleshooting logs for network status updates.
 
 ## 📬 Let's Connect
-LinkedIn: linkedin.com/saimoonislam  
-
+LinkedIn:(https://www.linkedin.com/in/md-saimoon-islam-network-admin)
 Email:saimoon.islam12122@gmail.com 
 Location: Mirpur-1, Dhaka, Bangladesh
